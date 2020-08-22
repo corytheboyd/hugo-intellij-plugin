@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-    <!-- Plugin description -->
-    The IntelliJ plugin for building websites with Hugo.
-    <!-- Plugin description end -->
+<!-- Plugin description -->
+The IntelliJ plugin for building websites with Hugo.
+<!-- Plugin description end -->
 </p>
 
 ## Features

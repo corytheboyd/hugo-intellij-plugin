@@ -1,7 +1,8 @@
 <idea-plugin>
     <id>com.github.corytheboyd.hugointellijplugin</id>
-    <name>hugo-intellij-plugin</name>
-    <vendor>corytheboyd</vendor>
+    <name>Hugo</name>
+    <vendor url="https://corytheboyd.com" email="cboyd@hey.com">corytheboyd</vendor>
+    <description>The IntelliJ plugin for building websites with Hugo.</description>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html -->
